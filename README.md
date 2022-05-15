@@ -100,5 +100,8 @@ Returns `no receiver` if receiver isn't in database.
 Returns `invalid amount` if number is invalid ( too small, too big or not a number )
 
 
+## Error
+If you encounter any error, please contact me on [this discord server](https://discord.gg/fHyN5w84g6)
+
 ## Ended
 You can now use the Greensky's CoinsManager !
