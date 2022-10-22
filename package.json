@@ -1,0 +1,14 @@
+{
+  "name": "coins",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Greensky-gs/coins.git",
+  "author": "Greensky-gs <72513011+Greensky-gs@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/mysql": "^2.15.21",
+    "discord.js": "^14.6.0",
+    "dotenv": "^16.0.3",
+    "mysql": "^2.18.1"
+  }
+}
