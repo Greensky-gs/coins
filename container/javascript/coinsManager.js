@@ -95,7 +95,7 @@ class CoinsManager {
 
         let data = this[`get${type[0].toUpperCase()}${type.slice(1)}`](user_id);
 
-        if (data > amount || data < amount) return false;
+        if (data < amount) return false;
         return true;
     }
     deposit(user_id, amount) {
